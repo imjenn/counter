@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+div {
+	width: 60%;
+	margin: 5% 15%;
+	text-align: center;
+}
+
+nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+a {
+	text-decoration: none;
+	background-color: dodgerblue;
+	color: white;
+	padding: 5px 7px;
+	border-radius: 3px;
+	box-shadow: 5px 5px 1px black;
+}
+
+span {
+	text-decoration: underline;
+}
